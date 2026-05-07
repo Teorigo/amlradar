@@ -1,0 +1,8 @@
+.venv/
+amlradar.db
+amlradar.log
+amlradar.err
+__pycache__/
+*.pyc
+/tmp/
+.env
